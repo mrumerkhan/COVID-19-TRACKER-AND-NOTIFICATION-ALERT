@@ -1,5 +1,8 @@
 # COVID-19-TRACKER-AND-NOTIFICATION-ALERT
-covid-19 notification and data alert system using python 
+Covid-19 notification and data alert system using python.
+In this project we use web-scraping to scrap the data from the website then we make a GUI window using Tkinter and showcase all the cases then
+we scrap statewise data and put in into gui window and one special feature of this project is as soon as case arsise in India we will get the notifiation
+## Console Output 
 ![image](https://user-images.githubusercontent.com/62200901/127028836-0769cbbc-942f-4b77-b4c5-b640197f8b0f.png)
 ## STATES-WISE DATA
 ![image](https://user-images.githubusercontent.com/62200901/127029449-84158fd7-69ea-4891-a487-4cd9efc466aa.png)
